@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Welcome to the Dark Forest !!!");
+        System.out.println("Welcome to the Dark Forest !");
         System.out.println("Try to survive in 10 steps by Jumping (j), Ducking (d), or Moving forward (m) to not be injured by the forest animals");
         System.out.println("You can only be wounded by the forest animals 3 times before you die, so be careful");
         System.out.println("You now have 3 lives");
